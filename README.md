@@ -1,3 +1,1 @@
-# test-project
-for a test
-ㅅㄷㄴㅅㄴㅅㄷㄴㅅ
+# paper-collecting
