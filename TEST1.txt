@@ -1,1 +1,5 @@
-we're gonna take a look some simple subject of AI
+we're gonna take a look some simple subjects of AI
+1. 주식 보유기간 예측
+- 보유기간을 예측하려는 이유?
+- 보유기간 활용분야
+- 그 외 정보로 얻을 수 있는 것 (예전에 넷플릭스 추천 알고리즘 공개 개선 그거 같은데)
